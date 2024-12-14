@@ -4,9 +4,8 @@
 
 ## Conclusions
 
-PCA: 
-
-
+PCA:
+We utilized various feature extraction methods, including Local Binary Patterns (LBP), Edge Detection, Histogram of Oriented Gradients (HoG), and Gray Level Co-occurrence Matrix (GLCM), to capture meaningful features from X-ray images. To reduce dimensionality and noise, we applied Principal Component Analysis (PCA) to these features, ensuring the most critical information was retained for classification. By reducing dimensionality with PCA, we aimed to streamline the identification of bone fractures. We then employed different classifiers, including Gaussian, Support Vector Machines (SVM), Decision Trees, Logisitic Regression, and Random Forest to evaluate the accuracy of these features in fracture detection. PCA played a crucial role in improving the performance of the classifiers by removing redundancy and focusing on essential patterns in the data.
 
 
 Resnet:
