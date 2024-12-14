@@ -10,7 +10,7 @@ PCA:
 
 
 Resnet:
-Categorizing bone fracture and non-bone fracture datasets, and training it on the larger dataset we had led to very positive results with accuracy in the high 90s. However, it was lacing in areas such as generalizability and was prone to overfitting. For a new model, change some of the hyper parameters as well as incorporating more tests may lead to better results. Overall, the tests with Resnet in terms of categorizing these datasets was very accurate.
+Categorizing bone fracture and non-bone fracture datasets, and training it on the larger dataset we had led to very positive results with accuracy in the high 90s. However, it was lacking in areas such as generalizability and was prone to overfitting. For a new model, change some of the hyper parameters as well as incorporating more tests may lead to better results. Overall, the tests with Resnet in terms of categorizing these datasets was very accurate.
 
 
 CNN: 
